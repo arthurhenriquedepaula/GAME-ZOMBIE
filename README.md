@@ -8,4 +8,5 @@ Com controles simples e responsivos, você pode se mover facilmente pela paisage
 Mas não se preocupe, você não está sozinho nesta luta desesperada pela sobrevivência. Um ranking à esquerda da tela mostra os melhores jogadores, incentivando você a superar seus próprios recordes e competir com amigos pelo topo. Enquanto isso, o contador de kills no centro da tela mantém você atualizado sobre seu progresso e desempenho atual.
 
 Com uma atmosfera tensa e desafiadora, "Zombie Shooter" promete uma experiência eletrizante que manterá você na ponta do seu assento. Você tem o que é preciso para sobreviver ao apocalipse zumbi e reivindicar o seu lugar como herói da humanidade? A aventura aguarda, a escolha é sua!![print-banco](https://github.com/arthurhenriquedepaula/GAME-ZOMBIE/assets/81483650/2dbdbeb1-ff21-459b-9831-e2ed35280ffd)
+![jogando](https://github.com/arthurhenriquedepaula/GAME-ZOMBIE/assets/81483650/3c20f437-fc0f-47a6-b55a-c469fdeafe8e)
 
