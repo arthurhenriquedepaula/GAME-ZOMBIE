@@ -11,6 +11,6 @@ Com uma atmosfera tensa e desafiadora, "Zombie Shooter" promete uma experiência
 
 LINK: https://662c4b0f0acda651724361d0--endearing-dusk-9865bc.netlify.app/
 
-[print-banco](https://github.com/arthurhenriquedepaula/GAME-ZOMBIE/assets/81483650/2dbdbeb1-ff21-459b-9831-e2ed35280ffd)
+![print-banco](https://github.com/arthurhenriquedepaula/GAME-ZOMBIE/assets/81483650/2dbdbeb1-ff21-459b-9831-e2ed35280ffd)
 ![jogando](https://github.com/arthurhenriquedepaula/GAME-ZOMBIE/assets/81483650/3c20f437-fc0f-47a6-b55a-c469fdeafe8e)
 
